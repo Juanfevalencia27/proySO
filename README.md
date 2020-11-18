@@ -1,2 +1,2 @@
 # proySO
-Gestor web de archivos linux
+lector de ip´s
